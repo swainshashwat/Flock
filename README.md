@@ -1,7 +1,3 @@
-Sure, here's a GitHub `README.md` markdown template for your project "Flock" along with a basic action plan:
-
----
-
 # Flock: Configurable ML Pipeline for Domain-Specific LLMs
 
 Flock is a versatile and configurable Machine Learning (ML) pipeline designed to build Language Model Models (LLMs) for domain-specific tasks. It offers support for popular LLM architectures such as wizardlm, bloom, falcon, and llama. The project also features a deep document mining system capable of extracting data from both text and images.

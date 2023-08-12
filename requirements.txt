@@ -1,0 +1,12 @@
+langchain
+tiktoken
+pypdf
+faiss-gpu
+chromadb
+transformers
+InstructorEmbedding
+sentence_transformers
+accelerate=0.21.0
+bitsandbytes
+xformers
+einops=0.6.1

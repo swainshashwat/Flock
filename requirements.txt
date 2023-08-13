@@ -10,3 +10,4 @@ accelerate=0.21.0
 bitsandbytes
 xformers
 einops=0.6.1
+python-magic=0.4.27

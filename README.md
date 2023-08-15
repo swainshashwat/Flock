@@ -42,9 +42,9 @@ python app.py
 
 ### Phase 1: Setup and Data Collection
 
-- [ ] Set up the project repository with a basic directory structure.
-- [ ] Create a virtual environment and install necessary dependencies.
-- [ ] Implement data collection mechanisms for text and image data.
+- [x] Set up the project repository with a basic directory structure.
+- [x] Create a virtual environment and install necessary dependencies.
+- [x] Implement data collection mechanisms for text and image data.
 - [ ] Preprocess and clean the collected data for further processing.
 
 ### Phase 2: LLM Architecture Integration
